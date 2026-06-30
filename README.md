@@ -1,4 +1,4 @@
-# GoBeans: Comprehensive Project Documentation
+# GoBeans: Comprehensive Project Documentation ----- check the website here: https://gobeans.vercel.app/
 
 > [!NOTE]
 > GoBeans is a sophisticated, highly-polished web application designed for a premium specialty coffee chain based in Bhavnagar, Gujarat. Built with modern web technologies, it provides a seamless booking experience for customers and a secure management dashboard for café administrators.
